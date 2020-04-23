@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows/servercore
+FROM mcr.microsoft.com/windows/servercore:1809-KB4549949-amd64
 
 LABEL maintainer "Perry Skountrianos"
 
